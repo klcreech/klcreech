@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=klcreech&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=klcreech"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=klcreech&layout=compact"/>
