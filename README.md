@@ -1,4 +1,4 @@
-### <h2>Hello! Welcome to my GitHub!</h2> 👋
+### <h2>Hello! Welcome to my GitHub! 👋</h2>
 
 <!--
 **klcreech/klcreech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
