@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=klcreech&&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=klcreech&&layout=compact&theme=transparent"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=klcreech&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=klcreech&show_icons=true&theme=transparent"/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=klcreech&theme=dark"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=klcreech&theme=transparent"/></p>
 
 
 
