@@ -1,4 +1,4 @@
-### <h2>Hello! Welcome to my GitHub! 👋</h2>
+
 
 <!--
 **klcreech/klcreech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <h2>Hello! Welcome to my GitHub! 👋</h2>
+
+🌱 I’m currently learning React and Redux...
+🔭 I’m currently working on my personal website using React!
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
