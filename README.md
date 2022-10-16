@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### <h2>Hello! Welcome to my GitHub! 👋</h2>
 
-🌱 I’m currently learning React and Redux...<br><br>
+🌱 I’m currently learning React and Redux...<br>
 🔭 I’m currently working on my personal website using React!
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
