@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### <h2>Hello! Welcome to my GitHub! 👋</h2>
 
-🌱 I’m currently learning React and Redux...<br>
+🌱 I’m currently learning React and Redux.....<br>
 🔭 I’m currently working on my personal website using React!
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <a href="https://kerrycreech.art/">
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=282A36&logoColor=white" />
 </a>
+
 
 
 ### 📈 GitHub stats
