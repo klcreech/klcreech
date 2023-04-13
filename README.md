@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Analytics
 <div style="float: left;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="250"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=prussian&exclude="/>
 
