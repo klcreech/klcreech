@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klcreech&theme=prussian" width="40%"/> 
     
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=klcreech&theme=prussian" width="40%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=klcreech&theme=prussian" width="40%"/><br><br><br>
    
 
 
