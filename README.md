@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <div style="float: left;">
 <img src="https://badgen.net/badge/HTML/5/42AFCE?icon=" />
 <img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
+<img src="https://badgen.net/badge/JavaScript/ES13/46A2F1?icon=" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="95"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="53"/>    
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="73"/>   
