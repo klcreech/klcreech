@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" width="58"/>
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" width="65"/>
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" width="105"/>
-<img src="https://badges.aleen42.com/src/visual_studio_code.svg" width="125"/>
+<img src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
     
 </div>
 
