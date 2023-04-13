@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/JavaScript/ES13/46A2F1?icon=" />
 <img src="https://badgen.net/badge/PHP/8.3/1A73E8?icon=" />
 <img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
+<img src="https://badgen.net/badge/C#/11/0063A5?icon=" />
 
    
    
