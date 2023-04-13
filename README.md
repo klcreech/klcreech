@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/Java/18/3F2CBE?icon=" />
 <img src="https://badgen.net/badge/Django/4.2/322397?icon=" />
 <img src="https://badgen.net/badge/Flask/2.0/880E4F?icon=" />
-<img src="https://badgen.net/badge/JQuery/3.6.4/C2185B?icon=" />
+<img src="https://badgen.net/badge/JQuery/3.6/C2185B?icon=" />
 <img src="https://badgen.net/badge/Node.js/19.6/F06292?icon=" />
 <img src="https://badgen.net/badge/React/18.2/EF5350?icon=" />
 <img src="https://badgen.net/badge/Adobe Photoshop/2023/FF8A65?icon=" />
