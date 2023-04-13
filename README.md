@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
 <img src="https://badgen.net/badge/JavaScript/ES13/46A2F1?icon=" />
 <img src="https://badgen.net/badge/PHP/8.3/1A73E8?icon=" />
+<img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="53"/>    
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="73"/>   
+   
+   
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="45"/>  
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="53"/> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="40"/>     
