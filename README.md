@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kcreech&theme=tokyonight"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klcreech&&layout=compact&theme=prussian"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=klcreech&show_icons=true&theme=prussian"/>
