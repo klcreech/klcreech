@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=282A36&logoColor=white" />
 </a>
 
-<h2>I enjoy coding with:</h2>
+<h3>I enjoy coding with:</h3>
 
 
 
