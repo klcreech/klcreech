@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 <h3>Tools of the craft:</h3>
 <div style="float: left;">
+    
 <img src="https://badgen.net/badge/HTML/5/42AFCE?icon=" />
 <img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
 <img src="https://badgen.net/badge/JavaScript/ES13/46A2F1?icon=" />
@@ -46,24 +47,12 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/Node.js/19.6/F06292?icon=" />
 <img src="https://badgen.net/badge/React/18.2/EF5350?icon=" />
 <img src="https://badgen.net/badge/Adobe Photoshop/2023/FF8A65?icon=" />
-   
-   
- 
-     
-
-
-
-
-
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width="80"/>
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" width="58"/>
-<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" width="63"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="65"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="80"/>
-<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" width="58"/>
-<img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" width="65"/>
-<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" width="105"/>
-
+<img src="https://badgen.net/badge/Adobe XD/2023/FFCC80?icon=" />
+<img src="https://badgen.net/badge/GIMP/2.10/C0CA33?icon=" />
+<img src="https://badgen.net/badge/Krita/5.0/689F38?icon=" />
+<img src="https://badgen.net/badge/MySQL/8.0/00796B?icon=" />
+<img src="https://badgen.net/badge/PostgreSQL/15.0/0097A7?icon=" />
+<img src="https://badgen.net/badge/VSCode/1.72/00ACC1?icon=" />   
     
 </div>
 
