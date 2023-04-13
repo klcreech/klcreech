@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <h2>Hi!<img src="https://user-images.githubusercontent.com/66389478/231745271-9ed4fa59-4a5e-4925-a506-35222a986e26.gif" width="25"/> Welcome to my GitHub!</h2>
+### <h2>Hi! <img src="https://user-images.githubusercontent.com/66389478/231745271-9ed4fa59-4a5e-4925-a506-35222a986e26.gif" width="25"/> Welcome to my GitHub!</h2>
 
 
 
