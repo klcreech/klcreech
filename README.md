@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=prussian&exclude="/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=nord_dark&exclude="/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=transparent&exclude="/>
 
 </div>
 
