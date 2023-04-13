@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
 <img src="https://badgen.net/badge/C Sharp/11/0063A5?icon=" />
 <img src="https://badgen.net/badge/C ++/23/5849BE?icon=" />
+<img src="https://badgen.net/badge/Java/18/5749BE?icon=" />
 
    
    
