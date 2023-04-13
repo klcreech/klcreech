@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3>Tools of the craft:</h3>
 <div style="float: left;">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="63"/>
+<img src="https://img.shields.io/badge/html5-%23E34F21.svg?style=for-the-badge&logo=html5&logoColor=white" width="63"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="57"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="95"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="53"/>    
