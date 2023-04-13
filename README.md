@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/PHP/8.3/1A73E8?icon=" />
 <img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
 <img src="https://badgen.net/badge/C Sharp/11/0063A5?icon=" />
+<img src="https://badgen.net/badge/C ++/23/5849BE?icon=" />
 
    
    
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="45"/>  
+ 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="53"/> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="40"/>     
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="72"/>
