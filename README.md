@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### <h2>Hello! Welcome to my GitHub!</h2>
 ![wave](https://user-images.githubusercontent.com/66389478/231745271-9ed4fa59-4a5e-4925-a506-35222a986e26.gif )
 
-<img src="https://user-images.githubusercontent.com/66389478/231745271-9ed4fa59-4a5e-4925-a506-35222a986e26.gif" width="30" height"30"/>
+<img src="https://user-images.githubusercontent.com/66389478/231745271-9ed4fa59-4a5e-4925-a506-35222a986e26.gif" />
 
 🌱 I’m currently learning React....<br>
 🔭 I’m currently working on my personal website using React!
