@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### 📈 <h1>GitHub Analytics</h1>
+###<h1> 📈 GitHub Analytics</h1>
 <div style="float: left;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="81%"/>
 
