@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently learning React....<br>
+🌱 I’m currently learning React and Data Structures and Algorithms in Python....<br>
 🔭 I’m currently working on my personal website using React!
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
