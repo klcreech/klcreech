@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=282A36&logoColor=white" />
 </a>
 
-<h3>Crayons for the craft:</h3>
+<h3>Pastels for the craft:</h3>
 <div style="float: left;">
     
 <img src="https://badgen.net/badge/HTML/5/42AFCE?icon=" />
