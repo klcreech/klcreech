@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 🌱 I’m currently learning React and Data Structures / Algorithms in Python....<br>
-🔭 I’m currently working on my personal website using React!
+🔭 I’m currently working on my personal website using React!<br>
 :smile: Currently Jammin; Leftfield: Dusted
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
