@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/Krita/5.0/689F38?icon=" />
 <img src="https://badgen.net/badge/MySQL/8.0/00796B?icon=" />
 <img src="https://badgen.net/badge/PostgreSQL/15.0/0097A7?icon=" />
-<img src="https://badgen.net/badge/VSCode/1.72/00ACC1?icon=" />   
+<img src="https://badgen.net/badge/VSCode/1.72/00ACC1?icon=" />
+<img src="https://badgen.net/badge/ChatGPT/4/CED2D7?icon=" />
     
 </div>
 
