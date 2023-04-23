@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <div style="float: left;">
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="81%"/> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=prussian&exclude=""  width="120%""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=prussian&exclude=" width="120%"/>
 
 <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=prussian&exclude="/>
     
