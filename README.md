@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/klcreech_banner.png" />
 
 
-### <h1>Hi! <img src="https://user-images.githubusercontent.com/66389478/231745271-9ed4fa59-4a5e-4925-a506-35222a986e26.gif" width="25"/> I'm Kerry!</h1>
-
-
-
-
 🌱 I’m currently learning React and Data Structures / Algorithms in Python....<br>
 🔭 I’m currently working on my personal website using React!<br>
 :sound: Jammin: Leftfield / Roots Manuva: Dusted
