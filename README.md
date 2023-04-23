@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/klcreech/klcreech/blob/main/assets/header/klcreech_banner.png" />
+<img src="https://github.com/klcreech/klcreech/blob/main/assets/header/klcreech_banner_1.png" />
 
 
 🌱 I’m currently learning React and Data Structures / Algorithms in Python....<br>
