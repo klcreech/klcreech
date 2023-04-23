@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 <h2> 📈 GitHub Analytics</h2>
 <div style="float: left;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=transparent" width="81%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=github_dark" width="81%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=transparent&exclude="/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=github_dark&exclude="/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=transparent&exclude="/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=github_dark&exclude="/>
     
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klcreech&theme=prussian" width="40%"/> -->
     
