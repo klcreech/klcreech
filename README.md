@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kerry-creech/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
-<a href="https://kerrycreech.art/">
-    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=282A36&logoColor=white" />
-</a>
+<!-- <a href="https://kerrycreech.art/">
+    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=282A36&logoColor=white" /> 
+</a> -->
 
 <h3>Pastels for the craft:</h3>
 <div style="float: left;">
