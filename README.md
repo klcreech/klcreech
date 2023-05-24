@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React and Data Structures / Algorithms in Python....<br>
 🔭 I’m currently working on my personal website using React!<br>
-:sound: Jammin: Leftfield / Roots Manuva: Dusted
+:sound: Jammin: <a href="https://soundcloud.com/therealdr1v3r/social-sisu-distancing-killa-kyleon-ft-stp-dr1v3r-mix"> DR1V3R - Social Sisu Distancing</a>
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
