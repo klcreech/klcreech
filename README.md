@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React and Data Structures / Algorithms in Python....<br>
 🔭 I’m currently working on my personal website using React!<br>
-:sound: Jammin: <a href="https://soundcloud.com/therealdr1v3r/dr1v3r-no-sleep-til-flow-nle-choppa-ft-beastie-boys-synthesized">Listen to the Track</a><br>
-
+:sound: Jammin: <a href="https://soundcloud.com/therealdr1v3r/dr1v3r-no-sleep-til-flow-nle-choppa-ft-beastie-boys-synthesized">Listen to: No Sleep Til Flow</a><br>
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
 <!-- <a href="https://kerrycreech.art/">
