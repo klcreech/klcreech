@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     
 <img src="https://badgen.net/badge/HTML/5/42AFCE?icon=" />
 <img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
-<img src="https://badgen.net/badge/badge/JavaScript/ES 2024/22B5BF?icon=github" />
+<img src="https://badgen.net/badge/JavaScript/ES 2024/22B5BF?icon=github" />
 <img src="https://badgen.net/badge/PHP/8.3/1A73E8?icon=" />
 <img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
 <img src="https://badgen.net/badge/C Sharp/11/0063A5?icon=" />
