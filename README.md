@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/JQuery/3.6/C2185B?icon=" />
 <img src="https://badgen.net/badge/Node.js/20/F06292?icon=" />
 <img src="https://badgen.net/badge/React/18.2/EF5350?icon=" />
-<img src="https://badgen.net/badge/Adobe Photoshop/2023/FF8A65?icon=" />
+<img src="https://badgen.net/badge/Adobe Photoshop/2024/FF8A65?icon=" />
 <img src="https://badgen.net/badge/Adobe XD/2024/FFCC80?icon=" />
 <img src="https://badgen.net/badge/GIMP/2.10/C0CA33?icon=" />
 <img src="https://badgen.net/badge/Krita/5.0/689F38?icon=" />
