@@ -32,24 +32,25 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/HTML/5/42AFCE?icon=" />
 <img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
 <img src="https://badgen.net/badge/JavaScript/ES 2024/22B5BF?icon=github" />
-<img src="https://badgen.net/badge/PHP/8.3/1A73E8?icon=" />
-<img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
-<img src="https://badgen.net/badge/C Sharp/11/0063A5?icon=" />
+<img src="https://badgen.net/badge/PHP/8.2/1A73E8?icon=php" />
+<img src="https://badgen.net/badge/Python/3.12/007ACC?icon=" />
+<img src="https://badgen.net/badge/C Sharp/12/0063A5?icon=" />
 <img src="https://badgen.net/badge/C ++/23/5849BE?icon=" />
-<img src="https://badgen.net/badge/Java/18/3F2CBE?icon=" />
+<img src="https://badgen.net/badge/Java/20/3F2CBE?icon=" />
 <img src="https://badgen.net/badge/Django/4.2/322397?icon=" />
-<img src="https://badgen.net/badge/Flask/2.0/880E4F?icon=" />
+<img src="https://badgen.net/badge/Flask/2.3/880E4F?icon=" />
 <img src="https://badgen.net/badge/JQuery/3.6/C2185B?icon=" />
-<img src="https://badgen.net/badge/Node.js/19.6/F06292?icon=" />
+<img src="https://badgen.net/badge/Node.js/20/F06292?icon=" />
 <img src="https://badgen.net/badge/React/18.2/EF5350?icon=" />
 <img src="https://badgen.net/badge/Adobe Photoshop/2023/FF8A65?icon=" />
-<img src="https://badgen.net/badge/Adobe XD/2023/FFCC80?icon=" />
+<img src="https://badgen.net/badge/Adobe XD/2024/FFCC80?icon=" />
 <img src="https://badgen.net/badge/GIMP/2.10/C0CA33?icon=" />
 <img src="https://badgen.net/badge/Krita/5.0/689F38?icon=" />
 <img src="https://badgen.net/badge/MySQL/8.0/00796B?icon=" />
-<img src="https://badgen.net/badge/PostgreSQL/15.0/0097A7?icon=" />
-<img src="https://badgen.net/badge/VSCode/1.72/00ACC1?icon=" />
+<img src="https://badgen.net/badge/PostgreSQL/15.0/0097A7?icon=postgresql" />
+<img src="https://badgen.net/badge/VSCode/1.72/00ACC1?icon=vscode" />
 <img src="https://badgen.net/badge/ChatGPT/4/CED2D7?icon=" />
+<img src="https://badgen.net/badge/Astro/.24/B845EE?icon=" />
     
 </div>
 
