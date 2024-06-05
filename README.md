@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     
 </div>
 
-[![My Stats!](https://github-readme-stats.vercel.app/api/wakatime?username=klcreech)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <h2> 📈 GitHub Analytics</h2>
 <div style="float: left;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="81%"/>
