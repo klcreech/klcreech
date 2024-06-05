@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/Astro/.24/B845EE?icon=" />
     
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!-- <h2> 📈 GitHub Analytics</h2>
 <div style="float: left;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="81%"/>
