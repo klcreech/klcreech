@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     
 </div>
 
-<h2> 📈 GitHub Analytics</h2>
+<!-- <h2> 📈 GitHub Analytics</h2>
 <div style="float: left;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="81%"/>
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=prussian&exclude="/>
     
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klcreech&theme=prussian" width="40%"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klcreech&theme=prussian" width="40%"/> -->
     
 
 </div>
