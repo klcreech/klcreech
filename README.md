@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" />
 
 -->
-<img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Currently leveling up in **AI Agent Development**, **LLM Workflows**, and **Data Structures & Algorithms in Python**
+<img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Currently leveling up in **AI Agent Development**, **LLM Workflows**.
 
 <img src="https://cdn.simpleicons.org/n8n/FF6A00" width="20"/> Actively building **AI-powered tools**, automations, and service pipelines
 
