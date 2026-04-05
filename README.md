@@ -17,52 +17,53 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_BAnner.png" />
 
 
-🌱 I’m currently learning React/Vite + Astro and Data Structures / Algorithms in Python....My brain is bleeding<br>
-🔭 I’m currently working on various projects using React!<br><br>
-<a href="https://www.linkedin.com/in/kerry-creech/"> 
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+🌱 Currently leveling up in <strong>React/Vite</strong>, <strong>Astro</strong>, and <strong>Data Structures & Algorithms in Python</strong> — send help<br>
+🔭 Actively building projects with <strong>React</strong> and exploring the Linux ecosystem<br>
+🖥️ Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong><br><br>
+
+<a href="https://www.linkedin.com/in/kerry-creech/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kerry%20Creech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<!-- <a href="https://kerrycreech.art/">
-    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=282A36&logoColor=white" /> 
-</a> -->
 
-<h3>Tools for the craft:</h3>
-<div style="float: left;">
-    
-<img src="https://badgen.net/badge/HTML/5/42AFCE?icon=" />
-<img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
-<img src="https://badgen.net/badge/JavaScript/ES 2024/22B5BF?icon=github" />
-<img src="https://badgen.net/badge/PHP/8.2/1A73E8?icon=php" />
-<img src="https://badgen.net/badge/Python/3.12/007ACC?icon=" />
-<img src="https://badgen.net/badge/C Sharp/12/0063A5?icon=" />
-<img src="https://badgen.net/badge/C ++/23/5849BE?icon=" />
-<img src="https://badgen.net/badge/Java/20/3F2CBE?icon=" />
-<img src="https://badgen.net/badge/Django/4.2/322397?icon=" />
-<img src="https://badgen.net/badge/Flask/2.3/880E4F?icon=" />
-<img src="https://badgen.net/badge/JQuery/3.6/C2185B?icon=" />
-<img src="https://badgen.net/badge/Node.js/20/F06292?icon=" />
-<img src="https://badgen.net/badge/React/18.2/EF5350?icon=" />
-<img src="https://badgen.net/badge/Adobe Photoshop/2024/FF8A65?icon=" />
-<img src="https://badgen.net/badge/Adobe XD/2024/FFCC80?icon=" />
-<img src="https://badgen.net/badge/GIMP/2.10/C0CA33?icon=" />
-<img src="https://badgen.net/badge/Krita/5.0/689F38?icon=" />
-<img src="https://badgen.net/badge/MySQL/8.0/00796B?icon=" />
-<img src="https://badgen.net/badge/PostgreSQL/15.0/0097A7?icon=postgresql" />
-<img src="https://badgen.net/badge/VSCode/1.72/00ACC1?icon=vscode" />
-<img src="https://badgen.net/badge/ChatGPT/4/CED2D7?icon=" />
-<img src="https://badgen.net/badge/Astro/.24/B845EE?icon=" />
-    
-</div>
-<!-- <h2> 📈 GitHub Analytics</h2>
-<div style="float: left;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klcreech&theme=prussian" width="81%"/>
+<h3>⚙️ Tools for the craft</h3>
+<div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klcreech&theme=prussian&exclude="/>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-13-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-23-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klcreech&theme=prussian&exclude="/>
-    
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klcreech&theme=prussian" width="40%"/> -->
-    
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Astro-5.x-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-5.x-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-3.x-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-3.7-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-9.x-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<!-- Design -->
+<img src="https://img.shields.io/badge/GIMP-3.2-5C5543?style=flat-square&logo=gimp&logoColor=white" />
+<img src="https://img.shields.io/badge/Krita-5.2-3BABFF?style=flat-square&logo=krita&logoColor=white" />
+<img src="https://img.shields.io/badge/Inkscape-1.4-000000?style=flat-square&logo=inkscape&logoColor=white" />
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-19-233A51?style=flat-square&logo=davinciresolve&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/VS%20Code-1.113-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyprland-0.54-58E1FF?style=flat-square&logo=wayland&logoColor=white" />
+<img src="https://img.shields.io/badge/Wayland-native-FFB300?style=flat-square&logo=wayland&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-27-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-Sonnet%204.6-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 
 </div>
 
