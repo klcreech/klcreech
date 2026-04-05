@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" />
 
 -->
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="16"/> Currently leveling up in <strong>AI Agent Development</strong>, <strong>LLM Workflows</strong>, and <strong>Data Structures & Algorithms in Python</strong> — building smarter systems, not just apps<br>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> Currently leveling up in <strong>AI Agent Development</strong>, <strong>LLM Workflows</strong>, and <strong>Data Structures & Algorithms in Python</strong> — building smarter systems, not just apps<br>
 
-<img src="https://cdn.simpleicons.org/n8n/ff6a00" width="16"/> Actively building <strong>AI-powered tools</strong>, automations, and service pipelines<br>
+<img src="https://cdn.simpleicons.org/n8n/FF6A00" width="16"/> Actively building <strong>AI-powered tools</strong>, automations, and service pipelines<br>
 
 <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16"/> Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong><br><br>
 
