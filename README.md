@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_bannernew.png" />
+<img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" />
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> Currently leveling up in <strong>React/Vite</strong>, <strong>Astro</strong>, and <strong>Data Structures & Algorithms in Python</strong> — send help<br>
