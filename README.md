@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 <!-- AI / LLM -->
 <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Agents-Builder-0A0A0A?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-Framework-00A67E?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector%20DBs-Embeddings-FF6F61?style=flat-square" />
 
 <!-- Backend / Systems -->
 <img src="https://img.shields.io/badge/Node.js-22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
