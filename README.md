@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" />
 
 -->
-<img src="https://img.shields.io/badge/AI-Agents-412991?style=flat-square&logo=openai&logoColor=white" width="16"/> Currently leveling up in <strong>AI Agent Development</strong>, <strong>LLM Workflows</strong>, and <strong>Data Structures & Algorithms in Python</strong> — building smarter systems, not just apps<br>
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="16"/> Currently leveling up in <strong>AI Agent Development</strong>, <strong>LLM Workflows</strong>, and <strong>Data Structures & Algorithms in Python</strong> — building smarter systems, not just apps<br>
 
-<img src="https://img.shields.io/badge/Automation-Workflows-FF4A00?style=flat-square&logo=n8n&logoColor=white" width="16"/> Actively building <strong>AI-powered tools</strong>, automations, and service pipelines<br>
+<img src="https://cdn.simpleicons.org/n8n/ff6a00" width="16"/> Actively building <strong>AI-powered tools</strong>, automations, and service pipelines<br>
 
-<img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" width="16"/> Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong><br><br>
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16"/> Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong><br><br>
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
     <img src="https://img.shields.io/badge/LinkedIn-Kerry%20Creech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
