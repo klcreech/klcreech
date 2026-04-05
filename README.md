@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" />
 
 -->
-<div style="font-family: 'Hack Nerd Font', monospace; font-size: 18px; line-height: 1.6;">
+<div style="font-family: 'Hack Nerd Font', monospace; font-size: 16px; line-height: 1.6;">
 
 <img src="https://cdn.simpleicons.org/python/3776AB" width="18"/> 
 <span>Currently leveling up in <strong>AI Agent Development</strong>, <strong>LLM Workflows</strong>, and <strong>Data Structures & Algorithms in Python</strong> — building smarter systems, not just apps</span><br>
