@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_BAnner.png" />
 
 
-🌱 Currently leveling up in <strong>React/Vite</strong>, <strong>Astro</strong>, and <strong>Data Structures & Algorithms in Python</strong> — send help<br>
-🔭 Actively building projects with <strong>React</strong> and exploring the Linux ecosystem<br>
-🖥️ Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> Currently leveling up in <strong>React/Vite</strong>, <strong>Astro</strong>, and <strong>Data Structures & Algorithms in Python</strong> — send help<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="16"/> Actively building projects with <strong>React</strong> and exploring the Linux ecosystem<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="16"/> Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong><br><br>
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
     <img src="https://img.shields.io/badge/LinkedIn-Kerry%20Creech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
