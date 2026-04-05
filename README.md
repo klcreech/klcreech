@@ -17,18 +17,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" />
 
 -->
-<div style="font-family: 'Hack Nerd Font', monospace; font-size: 16px; line-height: 1.6;">
+## <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Currently leveling up in **AI Agent Development**, **LLM Workflows**, and **Data Structures & Algorithms in Python**
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="18"/> 
-<span>Currently leveling up in <strong>AI Agent Development</strong>, <strong>LLM Workflows</strong>, and <strong>Data Structures & Algorithms in Python</strong> — building smarter systems, not just apps</span><br>
+## <img src="https://cdn.simpleicons.org/n8n/FF6A00" width="20"/> Actively building **AI-powered tools**, automations, and service pipelines
 
-<img src="https://cdn.simpleicons.org/n8n/FF6A00" width="18"/> 
-<span>Actively building <strong>AI-powered tools</strong>, automations, and service pipelines</span><br>
-
-<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="18"/> 
-<span>Daily driving <strong>Arch Linux</strong> + <strong>Hyprland</strong> on <strong>Wayland</strong></span><br><br>
-
-</div>
+## <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="20"/> Daily driving **Arch Linux** + **Hyprland** on **Wayland**
 
 <a href="https://www.linkedin.com/in/kerry-creech/">
     <img src="https://img.shields.io/badge/LinkedIn-Kerry%20Creech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
