@@ -1,4 +1,4 @@
-<img src="https://github.com/klcreech/klcreech/blob/main/assets/header/KC_GH_Bannernew.png" width="100%" />
+
 
 <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Architecting **Autonomous AI Agents** with **Hardware-in-the-Loop** awareness.
 
