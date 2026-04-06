@@ -33,7 +33,7 @@
 
 ---
 
-### 🏗️ Core Focus: Autonomous Agent Architecture
+### ⚡ Core Focus: Autonomous Agent Architecture
 
 <p align="center">
 I specialize in developing <b>end-to-end agentic workflows</b> bridging high-level LLM reasoning with low-level system operations:
@@ -45,7 +45,7 @@ I specialize in developing <b>end-to-end agentic workflows</b> bridging high-lev
 
 ---
 
-### 🎨 Creative & Development Tools
+### ⚡ Creative & Development Tools
 
 <p align="center">
     <img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
