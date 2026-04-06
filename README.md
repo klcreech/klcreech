@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/header/KC_GH_BAnner.png" alt="Architect AI Banner" width="100%" />
-</p>
-
-<h1 align="center">Kerry Creech</h1>
-
-<p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Architecting <b>Autonomous AI Agents</b> with <b>Hardware-in-the-Loop Awareness</b><br/>
   <img src="https://cdn.simpleicons.org/n8n/FF6A00" width="20"/> Engineering <b>Agentic Pipelines</b> & <b>LLM Orchestration</b> for local and cloud workflows<br/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Bridging <b>System-Level Discovery</b> with <b>Containerized AI Inference</b>
