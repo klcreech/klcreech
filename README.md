@@ -1,8 +1,14 @@
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Architecting <b>Autonomous AI Agents</b> with <b>Hardware-in-the-Loop Awareness</b>.<br/>
-  <img src="https://cdn.simpleicons.org/n8n/FF6A00" width="20"/> Engineering <b>Agentic Pipelines</b> & <b>LLM Orchestration</b> for local and cloud workflows.<br/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Bridging <b>System-Level Discovery</b> with <b>Containerized AI Inference</b>.
+  <h2>
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="25"/> Architecting <b>Autonomous AI Agents</b> with <b>Hardware-in-the-Loop Awareness</b>
+  </h2>
+  <h3>
+    <img src="https://cdn.simpleicons.org/n8n/FF6A00" width="25"/> Engineering <b>Agentic Pipelines</b> & <b>LLM Orchestration</b> for local and cloud workflows
+  </h3>
+  <h3>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="25"/> Bridging <b>System-Level Discovery</b> with <b>Containerized AI Inference</b>
+  </h3>
 </p>
 
 <p align="center">
