@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 What I Love to Do: AI Agent Building & Orchestration
+### ⚡ What I Love to Do: AI Agent Building & Orchestration
 
 I enjoy **designing and building intelligent AI agents** that can act autonomously and adapt to their environment. My main focus areas are:
 
@@ -23,11 +23,11 @@ I enjoy **designing and building intelligent AI agents** that can act autonomous
 - **Pipeline Orchestration:** Connecting AI models and system tasks into smooth, automated workflows.  
 - **System-Aware AI:** Integrating software and hardware signals to ensure context-aware execution.  
 
-💡 *Portfolio example:* I’ve developed pipelines that combine system-level discovery, AI reasoning, and automated task execution — showcasing safe and efficient LLM orchestration.
+⚡ *Portfolio example:* I’ve developed pipelines that combine system-level discovery, AI reasoning, and automated task execution — showcasing safe and efficient LLM orchestration.
 
 ---
 
-### 🎨 Tools & Skills
+### ⚡ Tools & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Logic_&_Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
