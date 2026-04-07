@@ -1,49 +1,87 @@
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Architecting <b>Autonomous AI Agents</b> with <b>Hardware-in-the-Loop Awareness</b><br/>
-  <img src="https://cdn.simpleicons.org/n8n/FF6A00" width="20"/> Engineering <b>Agentic Pipelines</b> & <b>LLM Orchestration</b> for local and cloud workflows<br/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Bridging <b>System-Level Discovery</b> with <b>Containerized AI Inference</b>
+  <img src="https://raw.githubusercontent.com/klcreech/klcreech/main/assets/header/KC_GH_BAnner.png" />
+</p>
+
+<h1 align="center">
+  <span style="color:#00E5FF;">DR1V3R</span>
+</h1>
+
+<p align="center">
+  <b>Autonomous AI Agents • System-Aware Pipelines • LLM Orchestration</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Autonomous_Agents-00E5FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Agent_Lifecycle-0FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Local_+_Cloud-00BFFF?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kerry-creech/">
-      <img src="https://img.shields.io/badge/LinkedIn-Kerry%20Creech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kerry%20Creech-00E5FF?style=flat-square&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### ⚡ What I Love to Do: AI Agent Building & Orchestration
+## ⚡ SYSTEM OVERVIEW
 
-I enjoy **designing and building intelligent AI agents** that can act autonomously and adapt to their environment. My main focus areas are:
+```text
+[ PERCEPTION ] → [ REASONING ] → [ ACTION ] → [ FEEDBACK ]
+       ↓              ↓              ↓            ↑
+  System Scan    LLM Planning    Execution     Iteration Loop
 
-- **Agent Design & Workflows:** Building agents capable of executing multi-step tasks reliably.  
-- **Pipeline Orchestration:** Connecting AI models and system tasks into smooth, automated workflows.  
-- **System-Aware AI:** Integrating software and hardware signals to ensure context-aware execution.  
+build autonomous AI systems that operate across the full lifecycle:
 
-⚡ *Portfolio example:* I’ve developed pipelines that combine system-level discovery, AI reasoning, and automated task execution — showcasing safe and efficient LLM orchestration.
+Perception → system discovery, context injection, environment awareness
+Reasoning → LLM planning, task decomposition, decision logic
+Action → APIs, scripts, container execution
+Feedback → validation, retry logic, adaptive improvement
+🚀 FEATURED PROJECTS (PORTFOLIO)
+🧠 Autonomous AI Agent Framework
 
----
+Full lifecycle agent with system awareness + safe execution loops
 
-### ⚡ Tools & Skills
+Dynamic environment probing
+Multi-step reasoning engine
+Controlled action layer
+🔗 Agentic Pipeline Orchestrator
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Logic_&_Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Environment_Isolation-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-Local_Inference-white?style=flat-square&logo=ollama&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch_Linux-Power_User-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-Wayland-58E1FF?style=flat-square&logo=wayland&logoColor=white" />
-</p>
+Reliable multi-stage AI workflows connecting tools + models
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Agent_Design-Autonomous_Workflows-FF6A00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pipeline_Creation-Multi--Step_Inference-339933?style=flat-square" />
-  <img src="https://img.shields.io/badge/Context_Injection-Dynamic_System_Probing-1793D1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Instruction_Tuning-3178C6?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Architecture-REST_|_Webhooks-FFCA28?style=flat-square" />
-</p>
+LLM chaining + task routing
+API + system integration
+Failure handling + retries
+⚙️ System-Aware Execution Engine
 
----
+Bridges hardware/software signals with AI decisions
 
-### ⚡ Summary
+Context-aware execution
+Real-time system feedback
+Safe automation patterns
+🐳 Local AI + Container Stack
 
-I focus on **autonomous, context-aware AI agents** and the orchestration of pipelines that connect **LLM reasoning** to **real-world system execution**, making AI workflows smarter, safer, and more efficient.
+Secure, reproducible AI environments
+
+Dockerized inference
+Local LLMs (Ollama)
+Offline-capable pipelines
+⚡ TECH STACK
+<p align="center"> <img src="https://img.shields.io/badge/Python-Automation-00E5FF?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-Containers-00BFFF?style=flat-square&logo=docker&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-Local_LLM-00FFFF?style=flat-square"/> <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/> <img src="https://img.shields.io/badge/Hyprland-Wayland-58E1FF?style=flat-square"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Agent_Architecture-Lifecycle_Design-00E5FF?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-Orchestration-00FFFF?style=flat-square"/> <img src="https://img.shields.io/badge/Context-System_Awareness-00BFFF?style=flat-square"/> <img src="https://img.shields.io/badge/APIs-Execution_Layer-00E5FF?style=flat-square"/> </p>
+⚡ DESIGN PHILOSOPHY
+
+Build agents that don’t just respond —
+Build systems that observe, decide, and act.
+
+Autonomous > Reactive
+Context-aware > Static
+Systems thinking > Single prompts
+⚡ CURRENT FOCUS
+Scalable agent orchestration frameworks
+Safe execution layers for AI systems
+Local-first AI with cloud extensibility
+Real-world automation pipelines
+⚡ CONTACT
+<p align="center"> <a href="https://www.linkedin.com/in/kerry-creech/"> <img src="https://img.shields.io/badge/Connect-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> </p>
+<p align="center"> <b style="color:#00E5FF;">DR1V3R</b> • <i>Drive the system. Don't follow it.</i> </p> ``
