@@ -1,4 +1,4 @@
-# Hey, I'm Kerry 👋
+# Hey, I'm Kerry
 
 I build autonomous AI agents — systems that can actually run on their own. Not wrappers around a chat interface, not prompt-and-response loops. Things that observe their environment, make decisions, take action, and course-correct without me in the loop.
 
