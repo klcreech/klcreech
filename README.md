@@ -1,11 +1,4 @@
 <!-- HERO BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/klcreech/klcreech/main/assets/header/KC_GH_BAnner.png" />
-</p>
-
-<h1 align="center">
-  <span style="color:#00E5FF;">DR1V3R</span>
-</h1>
 
 <p align="center">
   <b>Autonomous AI Agents • System-Aware Pipelines • LLM Orchestration</b>
