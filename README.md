@@ -27,7 +27,7 @@ I try not to be precious about tools either. Whatever solves the problem cleanes
 ## What I'm building toward
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Autonomous-AI_Agents-000FFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Autonomous-AI_Agents-00FFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Agent-Lifecycle_Design-00FFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/LLM-Orchestration-00FFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Context-System_Awareness-00FFFF?style=flat-square"/>
