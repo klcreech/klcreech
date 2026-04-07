@@ -28,11 +28,11 @@ I try not to be precious about tools either. Whatever solves the problem cleanes
 
 <p align="center">
   <img src="https://img.shields.io/badge/Autonomous-AI_Agents-00E5FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agent-Lifecycle_Design-00FFFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM-Orchestration-00BFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agent-Lifecycle_Design-00E5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM-Orchestration-00E5FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Context-System_Awareness-00E5FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Local_First-AI_Systems-00FFFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Execution-Safe_Automation-00BFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Local_First-AI_Systems-00E5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Execution-Safe_Automation-00E5FF?style=flat-square"/>
 </p>
 
 ---
